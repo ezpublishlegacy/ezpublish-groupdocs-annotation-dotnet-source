@@ -15,7 +15,7 @@ With GroupDocs Annotation for .NET plugin for ezPublish you can easily view on [
 
 
 ###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
-* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Annotation](http://groupdocs.com/apps/annotation)
+* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs.Annotation for .NET Library](http://groupdocs.com/dot-net/document-annotation-library)
 * [See GroupDocs Annotation for .NET plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-annotation-dotnet)
 
 ###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
